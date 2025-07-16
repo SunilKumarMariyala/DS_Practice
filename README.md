@@ -1,1 +1,1 @@
-# Data-Structure-Practice
+# DS_Practice
